@@ -1,0 +1,4 @@
+問１：Switch3
+問２：RP→Switch1 F0/1,Switch2 F0/2,Switch4 E0/2　Switch1からのルートもSwitch4からのルートもルートパスコストは同じだったが、Switch4の方がブリッジ🆔が小さいから
+DP→Switch2 F0/1,Switch4 E0/１　の対抗ポートだから　Switch3 E0/1,E0/2　ルートブリッジのポート
+BP→Switch1 F0/2　RPでもBPでもないポート
